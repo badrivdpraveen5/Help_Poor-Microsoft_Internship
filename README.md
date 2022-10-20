@@ -13,6 +13,10 @@ Our Missions and goals:
 
 About us:
 
+A lot of work goes down at the grass root level in villages in the remotest corners as well as the most populous metros across India, with schools and government bodies. We need your contributions to keep coming in.
+
+Help us to assist these children and poor people who need help right now with food, clothing, hygiene products, safe shelter and more..
+
 ![Screenshot (30)](https://user-images.githubusercontent.com/109084507/196966799-f75c7293-f6fa-42f4-93c0-e5fa7603d26c.png)
 
 Facts:
@@ -20,6 +24,8 @@ Facts:
 ![Screenshot (31)](https://user-images.githubusercontent.com/109084507/196966814-620db886-1077-4825-b16d-e24b3d6ec18d.png)
 
 Volunteers:
+
+Anyone can become a volunteer, it doesn’t matter what your skills, experience or background are, or how much time you have to give. Our volunteer make change possible. They’re the people we call for any activity in their area whether related with fundraising, community mobilisation, awareness or anything else.
 
 ![Screenshot (32)](https://user-images.githubusercontent.com/109084507/196966821-4383b931-c675-42f6-b8b4-2f7e7bfc269e.png)
 
@@ -48,6 +54,8 @@ Contact us page:
 
 donate page:
 
+When you give a donation, you will be able to set an example for the people around you. You will work as an inspiration for the people who might not have been donating. It means that charities will receive more donations and so it would be easier for them to work on their cause.
+
 ![Screenshot (39)](https://user-images.githubusercontent.com/109084507/196966932-8999898d-6cbb-475b-83f0-4f0110fab7fd.png)
 
 dark mode also provided:
@@ -62,7 +70,27 @@ Stats:
 
 ![Screenshot (43)](https://user-images.githubusercontent.com/109084507/196966977-b4d3e44f-c402-4122-b40b-4e7fe7fff836.png)
 
+![Screenshot (45)](https://user-images.githubusercontent.com/109084507/196967010-fcae08e1-68c0-462d-a591-b93c08aa9d5d.png)
+
+
+Why should I care
+
+
+13,40,000 children below 5 die in a year, that is 3,671 under 5 child deaths per day.
+Nearly half of all child deaths under 5 in India are attributed to undernutrition.
+More than half (56%) of the under 5 deaths occur within the first 28 days of life, we work to prevent these lives
+India accounts for more than 3 out of 10 stunted children in the world.
+17.7 million children and adolescents are out of school in India, this is 14% of world's population of children out of school.
+20% of grade 2 children in India cannot recognize numbers 1-9; 53% of children drop out of school at elementary level.
+49.5% of grade 5 children cannot do subtraction and 55% of grade 8 children cannot solve 3 digits by 1 digit division problem; 51.09% of grade 5 children cannot read grade 2 English and 25.4% children of grade 8 cannot read grade 2 text.
+
+How you can Help
+
+
+We want to do more and you can help. By committing a small fraction of your income to protect children in need, you can help save a child and contribute to humanity. You can donate as low as INR 500 per month.
+While Save the Children appreciates monthly donations more where you choose to donate a small fixed amount monthly for us to be able to plan our programs for longer term, a single donation can also help save a child.
+You will get your tax exemption certificate within 15 days of your one time donation (quarterly in case of regular donors, who pledge monthly donations, after their first month’s donation). You will get quarterly updates on how you are making a difference.
+
 Whom we work with:
 
-![Screenshot (45)](https://user-images.githubusercontent.com/109084507/196967010-fcae08e1-68c0-462d-a591-b93c08aa9d5d.png)
 
